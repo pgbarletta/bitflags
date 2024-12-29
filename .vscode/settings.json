@@ -82,6 +82,9 @@
         "thread": "cpp",
         "typeindex": "cpp",
         "valarray": "cpp",
-        "*.ipp": "cpp"
+        "*.ipp": "cpp",
+        "regex": "cpp",
+        "future": "cpp",
+        "expected": "cpp"
     }
 }
